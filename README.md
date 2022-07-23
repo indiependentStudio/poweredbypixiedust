@@ -14,8 +14,8 @@
 * Python - focusing on API integrations, SQL data storage, cleansing data for ML
 
 🌱 I’m currently studying 2 things:
-* iOS with Swift, building out a full product to be released
-* NAND to Tetris - starting with just a NAND gate, building out a virtual computer including logic, processor, RAM and moving into developing device specific Machine Language that is used to layer on a custom high-level language. [NAND2Tetris](https://www.nand2tetris.org/)
+* Unreal 5 / C++
+* Blender
 
 
 📫 I'm available via dave@poweredbypixiedust.uk
